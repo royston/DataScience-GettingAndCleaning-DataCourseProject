@@ -15,7 +15,7 @@ The data frame contains the above aggregated data.
 
 The following is a guide to the column names in the output data:
 
-The following columns represent various measurements of wearable computing for each subject.
+The following columns represent the mean values various measurements of wearable computing for each subject and activity type. Subjects are individual volunteers from whom the data has been collected. 
 Those among these columns that end with "XYX" have separate measurements for each of the 3 space dimensions, represent by X, Y or Z.
 
 * tBodyAcc-XYZ
@@ -40,3 +40,5 @@ Each of the above set have separate columns for mean and std.
 For eg. tBodyAcc-mean()-X represents the X axis mean of tBodyAcc
 
 Further details of the data columns can be found from the CodeBook in the input data set at : [wearable computing data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+
+In addition 
